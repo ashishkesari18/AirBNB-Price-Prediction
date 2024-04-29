@@ -26,25 +26,9 @@ data/: Directory containing the raw datasets.
 notebooks/: Jupyter notebooks containing data preprocessing, analysis, and modeling scripts.
 
 
-models/: Trained machine learning models for price prediction.
-
-
-src/: Source code for data preprocessing and feature engineering.
-
-
-results/: Directory to store analysis results, visualizations, and model evaluation metrics.
-Usage
-
 Clone this repository: git clone https://github.com/ashishkesari18/AirBNB-Price-Prediction
 
 
-Install dependencies: pip install -r requirements.txt
-
-
-Run the notebooks: Navigate to the notebooks/ directory and execute the notebooks to reproduce the analysis and modeling process.
-
-
-Explore the results: Check out the results and trained models in their respective directories.
 
 
 Contributors:
