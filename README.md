@@ -41,10 +41,14 @@ Step-7: Machine Learning Analysis: Our Machine Learning Analysis is only done fo
 
 
 
-data/: Directory containing the raw datasets.
+Datasets/: Directory containing the raw datasets.
 
+           * train.csv - refers to AirBNB Dataset
+           * zillowhouses.csv- refers to zillow Housing dataset.
+      
+Phase-2: Directory which has teh Jupyter Notebook file that contains the work done till Phase-2.
 
-notebooks/: Jupyter notebooks containing data preprocessing, analysis, and modeling parts.
+Phase-3: Directory which has a Jupyter Notebook file which was uploaded with few changes which were made to Phase-2.
 
 
 Clone this repository: git clone https://github.com/ashishkesari18/AirBNB-Price-Prediction
