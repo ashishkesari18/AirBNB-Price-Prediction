@@ -30,6 +30,11 @@ Step-5: ROI Analysis: Identified the best and least cities based on Return on In
 
 Step-6: Feature Engineering: We performed feature engineering to extract relevant features for our predictive modeling.
 
+![image](https://github.com/ashishkesari18/AirBNB-Price-Prediction/assets/88103934/4200776b-19d4-429a-803b-984ca67d47c2)
+
+
+These are the top features that we are going to use for Predicting and modeling.
+
 Step-7: Machine Learning Analysis: Our Machine Learning Analysis is only done for AirBNB Dataset as our primary aim is to predict the Price for rental dataset, but  Obtained good amount of inisghts from Combined dataset. 
 
        * For Machine Learning Analysis, The target variable here is log_price and has various features and performed Machine Learning Analysis on AirBNB Dataset 
