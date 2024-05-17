@@ -1,7 +1,7 @@
-                    ![image](https://github.com/ashishkesari18/AirBNB-Price-Prediction/assets/88103934/27b74a96-6f4e-474b-a3bf-e2497c725cbe)
+  ![image](https://github.com/ashishkesari18/AirBNB-Price-Prediction/assets/88103934/27b74a96-6f4e-474b-a3bf-e2497c725cbe)
 
 
-                                                  *******AirBNB Price Prediction*******
+                                                *******AirBNB Price Prediction*******
 
 
 Overview
