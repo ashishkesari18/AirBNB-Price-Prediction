@@ -101,7 +101,9 @@ images/: Contains images used for ReadMe file.
 Phase-2: Directory which has teh Jupyter Notebook file that contains the work done till Phase-2.
 
 Phase-3: Directory which has a Jupyter Notebook file which was uploaded with few changes which were made to Phase-2.
+
             * xgboost.pkl is the pickle file fir the XG Boost model
+            
             * main.py is the python file where we have used streamlit library for Price Prediction.
             
 
